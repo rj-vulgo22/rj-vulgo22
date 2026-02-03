@@ -1,82 +1,75 @@
 
 <!-- 
-  The aesthetic is "Cyber-Industrial / Minimalist". 
-  Designed for Dark Mode.
+  A estética é "Cyber-Industrial / Minimalista". 
+  Projetado para Modo Escuro.
 -->
 
 <div align="center">
   <a href="https://github.com/ovulgo22">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=System.initialize(ovulgo22)%3B;Architecting+Digital+Trust.;Engineering+Resilient+Web+Systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=System.initialize(ovulgo22)%3B;Arquitetando+Confianca+Digital.;Engenharia+de+Sistemas+Resilientes." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <br />
-  <code>Web Software Engineer & Systems Architect</code>
+  <code>Engenheiro de Software Web & Arquiteto de Sistemas</code>
   <br />
   <br />
   <a href="#-stack">Stack</a> • 
-  <a href="#-philosophy">Philosophy</a> • 
-  <a href="#-work">Work</a> • 
-  <a href="#-connect">Signal</a>
+  <a href="#-filosofia">Filosofia</a> • 
+  <a href="#-trabalho">Trabalho</a> • 
+  <a href="#-contato">Sinal</a>
   <br />
   <br />
 </div>
 
 ---
 
-### <span style="color: #a1a1aa">01. //</span> The Interface
+### <span style="color: #a1a1aa">01. //</span> A Interface
 
-I treat software engineering not merely as writing code, but as **designing systems of trust**. My focus lies at the intersection of high-performance frontend architecture, security governance, and operational resilience.
+Não trato a engenharia de software apenas como escrever código, mas como **projetar sistemas de confiança**. Meu foco reside na interseção entre arquitetura frontend de alta performance, governança de segurança e resiliência operacional.
 
 ```typescript
-interface Engineer {
-  name: "Matheus";
-  username: "ovulgo22";
-  role: "Software Engineer (Web)";
-  specialization: [
-    "Event-Driven Architecture",
-    "Digital Governance",
+interface Engenheiro {
+  nome: "Matheus";
+  usuario: "ovulgo22";
+  funcao: "Engenheiro de Software (Web)";
+  especializacao: [
+    "Arquitetura Orientada a Eventos",
+    "Governança Digital",
     "Security by Design",
-    "High-Performance UI"
+    "UI de Alta Performance"
   ];
-  location: "Brazil";
-  status: "Shipping_Production_Grade_Code";
+  localizacao: "Brasil";
+  status: "Enviando_Codigo_Producao";
 }
 ```
 
-### <span style="color: #a1a1aa">02. //</span> The Arsenal
+### <span style="color: #a1a1aa">02. //</span> O Arsenal
 
-I build with tools that enforce type safety, scalability, and maintainability.
+Construo com ferramentas que impõem tipagem segura, escalabilidade e manutenibilidade.
 
-| Domain | Technologies |
+| Domínio | Tecnologias |
 | :--- | :--- |
-| **Core** | `TypeScript` `JavaScript (ESNext)` `Node.js` |
+| **Núcleo** | `TypeScript` `JavaScript (ESNext)` `Node.js` |
 | **Frameworks** | `Angular (Zoneless)` `React` `Tailwind CSS` `RxJS` |
-| **System** | `Event Sourcing` `Micro-frontends` `CI/CD Pipelines` |
-| **Trust** | `OAuth2/OIDC` `Policy as Code` `Audit Trails` |
+| **Sistema** | `Event Sourcing` `Micro-frontends` `Pipelines CI/CD` |
+| **Confiança** | `OAuth2/OIDC` `Policy as Code` `Trilhas de Auditoria` |
 
-### <span style="color: #a1a1aa">03. //</span> Featured Architecture
+### <span style="color: #a1a1aa">03. //</span> Arquitetura em Destaque
 
 > **[Tranquilidade Core](https://github.com/ovulgo22/tranquilidade)**
 >
-> A Digital Trust Operating System.
-> *   **Concept:** Unifies governance, security, and observability into a single abstraction layer.
-> *   **Tech:** Angular 19+ (Zoneless), Signals, Event-Driven Architecture, Tailwind.
-> *   **Key Feature:** Real-time normalization of infrastructure signals into actionable security policies.
+> Um Sistema Operacional de Confiança Digital.
+> *   **Conceito:** Unifica governança, segurança e observabilidade em uma única camada de abstração.
+> *   **Tecnologia:** Angular 19+ (Zoneless), Signals, Arquitetura Orientada a Eventos, Tailwind.
+> *   **Recurso Principal:** Normalização em tempo real de sinais de infraestrutura em políticas de segurança acionáveis.
 
-### <span style="color: #a1a1aa">04. //</span> Engineering Principles
+### <span style="color: #a1a1aa">04. //</span> Princípios de Engenharia
 
-1.  **Security by Design:** It is not a feature; it is the foundation. Zero Trust architecture is the default.
-2.  **Immutability:** State should be predictable. Events are the source of truth.
-3.  **Performance is UX:** Latency erodes trust. Interfaces must react at the speed of thought.
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ovulgo22&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&hide=stars" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovulgo22&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa" height="150" alt="languages graph"  />
-</div>
+1.  **Security by Design:** Não é uma funcionalidade; é a fundação. Arquitetura Zero Trust é o padrão.
+2.  **Imutabilidade:** O estado deve ser previsível. Eventos são a fonte da verdade.
+3.  **Performance é UX:** Latência corrói a confiança. Interfaces devem reagir na velocidade do pensamento.
 
 <br />
 
@@ -84,7 +77,7 @@ I build with tools that enforce type safety, scalability, and maintainability.
 
 <div align="center">
   <p style="font-family: monospace; color: #52525b; font-size: 12px;">
-    // END OF TRANSMISSION <br>
-    © 2026 ovulgo22. All systems nominal.
+    // FIM DA TRANSMISSÃO <br>
+    © 2026 ovulgo22. Todos os sistemas operacionais.
   </p>
 </div>
