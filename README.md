@@ -1,86 +1,101 @@
-<!--
-README de perfil: rj-vulgo22 (Matheus Moraes)
-Cole este conteúdo no arquivo README.md na raiz do repositório.
--->
+<!-- Profile README: Matheus Moraes (rj-vulgo22) -->
+
+<p align="center">
+  <a href="./README.md">
+    <img alt="Language: English" src="https://img.shields.io/badge/Language-English-111111?style=for-the-badge">
+  </a>
+  <a href="./README.pt-BR.md">
+    <img alt="Idioma: Português (BR)" src="https://img.shields.io/badge/Idioma-Português%20(BR)-111111?style=for-the-badge">
+  </a>
+</p>
 
 <h1 align="center">Matheus Moraes</h1>
+
 <p align="center">
-  21 anos • Cloud Engineering • DevOps • Arquitetura de Software (em evolução) • Web com IA (Gemini)
+  21 • Cloud Engineering • DevOps • Software Architecture (in progress) • AI-first Web (Google Gemini)
 </p>
 
 <p align="center">
   <a href="https://github.com/rj-vulgo22">github.com/rj-vulgo22</a>
-  <!-- Opcional: adicione seus links abaixo -->
-  <!-- • <a href="https://www.linkedin.com/in/SEU-LINK/">LinkedIn</a> -->
-  <!-- • <a href="mailto:SEUEMAIL@DOMINIO.COM">Email</a> -->
+  <!-- Optional:
+  • <a href="https://www.linkedin.com/in/YOUR-LINK/">LinkedIn</a>
+  • <a href="mailto:YOUR_EMAIL@DOMAIN.COM">Email</a>
+  -->
 </p>
 
 ---
 
-## Sobre mim
+## About
 
-Sou Matheus Moraes, tenho 21 anos e atuo na construção e evolução de soluções web com foco em infraestrutura, entrega e operação. Estou aprofundando meus conhecimentos em Cloud Engineering, DevOps e Arquitetura de Software — áreas complementares, mas diferentes:
+I’m Matheus Moraes, 21, focused on building and improving web solutions with strong foundations in infrastructure, delivery, and operations. I’m actively deepening my skills in Cloud Engineering, DevOps, and Software Architecture—related areas, but not the same thing:
 
-- Cloud Engineering: infraestrutura e serviços em nuvem, escalabilidade, segurança e custos
-- DevOps: automação, pipelines, confiabilidade e práticas que melhoram a entrega contínua
-- Arquitetura de Software: desenho de sistemas, padrões, integrações e decisões técnicas com trade-offs claros
+- Cloud Engineering: cloud services, scalability, security, and cost efficiency
+- DevOps: automation, CI/CD, reliability, and practices that improve delivery and operations
+- Software Architecture: system design, integrations, patterns, and technical trade-offs
 
-Meu trabalho é fortemente orientado por IA. Eu utilizo IA como copiloto para acelerar o ciclo de desenvolvimento, com responsabilidade técnica e validação humana do início ao fim.
-
----
-
-## IA no meu fluxo de trabalho (Gemini e agentes)
-
-Tenho experiência usando a IA da Google (Gemini) para apoiar a construção de aplicações web e automações, incluindo:
-
-- prototipação de soluções e arquiteturas
-- geração e revisão de código e configurações
-- criação de tarefas automatizadas e “agentes” para reduzir trabalho repetitivo
-- suporte em documentação, testes e troubleshooting
-
-Importante: eu uso IA intensivamente, mas não terceirizo a responsabilidade. Eu defino objetivos, estabeleço padrões, oriento a execução, testo, valido e faço os ajustes necessários para produção.
+I work in an AI-first way. AI is my copilot; I use it heavily to accelerate development. I still own the engineering responsibility end-to-end: defining goals, setting constraints, guiding implementation, testing, validating, and shipping.
 
 ---
 
-## O que eu faço (na prática)
+## AI-first workflow (Google Gemini and agents)
 
-Infraestrutura e entrega
-- automação de ambientes e padronização de projetos
-- pipelines de CI/CD e processos de release mais previsíveis
-- infraestrutura como código (IaC) e provisionamento repetível
-- observabilidade (logs, métricas e alertas) para operação confiável
+I have hands-on experience using Google’s Gemini to support web development and automation, including:
+
+- solution and architecture prototyping
+- generating and reviewing code and configuration
+- agent-style workflows to reduce repetitive work
+- documentation, testing support, and troubleshooting acceleration
+
+Important: I use AI intensively, but I do not outsource accountability. I decide the direction, verify outcomes, and ensure quality.
+
+---
+
+## What I do
+
+Infrastructure and delivery
+- automation and project standardization
+- CI/CD pipelines and more predictable releases
+- infrastructure as code (IaC) and repeatable provisioning
+- observability (logs, metrics, alerting) for stable operations
 
 Web
-- Frontend com Angular (TypeScript)
-- backend e integrações definidos conforme a necessidade do projeto (APIs, serviços, autenticação, dados), sempre pensando em manutenibilidade, segurança e performance
+- Frontend with Angular (TypeScript)
+- Backend behavior and integrations defined per project needs (APIs, authentication, data, services), with focus on maintainability, security, and performance
 
 ---
 
-## Tecnologias e ferramentas
+## Current focus
+
+- strengthening fundamentals in cloud and operations
+- improving system design skills (architecture trade-offs, scalability, reliability)
+- using AI agents to automate what should not be manual
+- building projects that are simple to run, well-documented, and easy to adopt
+
+---
+
+## Open-source mission
+
+My goal with open source is to build tools and products that are easier to use, easier to deploy, and easier to maintain than overly complex alternatives. I want to prove that a modern workflow—high standards, strong validation, and AI acceleration—can produce solutions that rival what large companies ship.
+
+Using AI is part of the craft for me: the skill is in specifying correctly, making the right trade-offs, validating output, and delivering reliable software.
+
+---
+
+## Tech (varies by project)
 
 - TypeScript, Angular
-- Cloud (principalmente ecossistema Google, conforme o contexto do projeto)
-- Docker e containers; Kubernetes quando faz sentido
-- IaC (ex.: Terraform, conforme o projeto)
-- Git, GitHub e automação de workflows (ex.: GitHub Actions)
-- Monitoramento e logs (ferramentas variam por projeto)
-
-Observação: a stack pode mudar de acordo com o problema. Eu priorizo soluções simples, bem documentadas e fáceis de operar.
+- Cloud (often Google ecosystem, depending on context)
+- Containers (Docker); orchestration when it makes sense
+- IaC (for example, Terraform, depending on the project)
+- Git and automation (for example, GitHub Actions)
+- Monitoring and logging (tooling varies)
 
 ---
 
-## Motivação (open source)
-
-Meu objetivo com open source é criar projetos que sejam mais simples, mais acessíveis e mais fáceis de usar do que alternativas complexas do mercado — inclusive quando comparadas a soluções de grandes empresas.
-
-Mesmo usando IA como acelerador, eu vejo isso como parte da minha habilidade técnica: saber especificar corretamente, escolher trade-offs, orientar a implementação, garantir qualidade, testar, validar e operar de forma confiável.
-
----
-
-## Contato
+## Contact
 
 - GitHub: https://github.com/rj-vulgo22
-<!-- Opcional:
-- LinkedIn: https://www.linkedin.com/in/SEU-LINK/
-- Email: SEUEMAIL@DOMINIO.COM
+<!-- Optional:
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINK/
+- Email: YOUR_EMAIL@DOMAIN.COM
 -->
