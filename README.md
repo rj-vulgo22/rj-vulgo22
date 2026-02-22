@@ -1,129 +1,86 @@
 <!--
-Perfil: Matheus Moraes (rj-vulgo22)
-Estilo: direto, moderno, IA-first, Cloud/DevOps + Web + Agentes
+README de perfil: rj-vulgo22 (Matheus Moraes)
+Cole este conteúdo no arquivo README.md na raiz do repositório.
 -->
 
 <h1 align="center">Matheus Moraes</h1>
 <p align="center">
-  Cloud Engineer • DevOps • Arquiteto em desenvolvimento (Infra & Web) • IA-first
+  21 anos • Cloud Engineering • DevOps • Arquitetura de Software (em evolução) • Web com IA (Gemini)
 </p>
 
 <p align="center">
-  <a href="https://github.com/rj-vulgo22">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-rj--vulgo22-181717?style=for-the-badge&logo=github">
-  </a>
-  <!-- Troque os links abaixo pelos seus (ou remova) -->
-  <!--
-  <a href="https://www.linkedin.com/in/SEU-LINK/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matheus%20Moraes-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:SEUEMAIL@DOMINIO.COM">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail">
-  </a>
-  -->
+  <a href="https://github.com/rj-vulgo22">github.com/rj-vulgo22</a>
+  <!-- Opcional: adicione seus links abaixo -->
+  <!-- • <a href="https://www.linkedin.com/in/SEU-LINK/">LinkedIn</a> -->
+  <!-- • <a href="mailto:SEUEMAIL@DOMINIO.COM">Email</a> -->
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou **Matheus Moraes**, atuo como **Cloud Engineer**, **DevOps** e **Arquiteto em desenvolvimento** — focado em **infraestrutura web moderna** e **entrega de software com excelência operacional**.
+Sou Matheus Moraes, tenho 21 anos e atuo na construção e evolução de soluções web com foco em infraestrutura, entrega e operação. Estou aprofundando meus conhecimentos em Cloud Engineering, DevOps e Arquitetura de Software — áreas complementares, mas diferentes:
 
-Meu diferencial é trabalhar no modelo **IA-first**: uso **Agentes/Inteligência Artificial** (ecossistema Google e ferramentas do mercado) para acelerar arquitetura, automação e desenvolvimento.  
-**A IA é minha auxiliadora. Eu sou quem torna a entrega possível**: defino objetivos, desenho a solução, oriento a execução, testo, valido e garanto qualidade, segurança e confiabilidade.
+- Cloud Engineering: infraestrutura e serviços em nuvem, escalabilidade, segurança e custos
+- DevOps: automação, pipelines, confiabilidade e práticas que melhoram a entrega contínua
+- Arquitetura de Software: desenho de sistemas, padrões, integrações e decisões técnicas com trade-offs claros
 
-> **IA constrói rápido. Eu construo certo.**  
-> A responsabilidade final é minha: **decisão, validação, performance e produção**.
+Meu trabalho é fortemente orientado por IA. Eu utilizo IA como copiloto para acelerar o ciclo de desenvolvimento, com responsabilidade técnica e validação humana do início ao fim.
+
+---
+
+## IA no meu fluxo de trabalho (Gemini e agentes)
+
+Tenho experiência usando a IA da Google (Gemini) para apoiar a construção de aplicações web e automações, incluindo:
+
+- prototipação de soluções e arquiteturas
+- geração e revisão de código e configurações
+- criação de tarefas automatizadas e “agentes” para reduzir trabalho repetitivo
+- suporte em documentação, testes e troubleshooting
+
+Importante: eu uso IA intensivamente, mas não terceirizo a responsabilidade. Eu defino objetivos, estabeleço padrões, oriento a execução, testo, valido e faço os ajustes necessários para produção.
 
 ---
 
 ## O que eu faço (na prática)
 
-### Cloud & DevOps
-- Arquitetura e evolução de ambientes **cloud** com foco em **escalabilidade, segurança e custo**
-- **CI/CD**, automação e padronização de pipelines (entrega contínua e releases consistentes)
-- **Infra como Código (IaC)** e provisionamento repetível
-- Observabilidade e confiabilidade: **logs, métricas, tracing**, SLO/SLI e resposta a incidentes
+Infraestrutura e entrega
+- automação de ambientes e padronização de projetos
+- pipelines de CI/CD e processos de release mais previsíveis
+- infraestrutura como código (IaC) e provisionamento repetível
+- observabilidade (logs, métricas e alertas) para operação confiável
 
-### Agentes & IA aplicada
-- Criação/integração de **agentes** para automatizar tarefas técnicas (documentação, geração de infraestrutura, templates, testes, validações)
-- Uso de IA para:
-  - acelerar desenho de arquitetura
-  - reduzir tempo de troubleshooting
-  - gerar e revisar código/configuração
-  - aumentar cobertura de testes e qualidade de entregas
-
-### Web & Arquitetura de aplicações
-- **Angular (TypeScript)** no Frontend
-- Construção do **funcionamento do Backend** (arquitetura, integrações e padrões) alinhado a:
-  - performance, segurança e manutenibilidade
-  - APIs bem definidas e integração com serviços cloud
-  - boas práticas de versionamento e entrega
+Web
+- Frontend com Angular (TypeScript)
+- backend e integrações definidos conforme a necessidade do projeto (APIs, serviços, autenticação, dados), sempre pensando em manutenibilidade, segurança e performance
 
 ---
 
-## Stack & Ferramentas (comuns no meu dia a dia)
+## Tecnologias e ferramentas
 
-**Linguagens & Web**
-- TypeScript • Angular • (Backend conforme o projeto: Node.js / Python / etc.)
+- TypeScript, Angular
+- Cloud (principalmente ecossistema Google, conforme o contexto do projeto)
+- Docker e containers; Kubernetes quando faz sentido
+- IaC (ex.: Terraform, conforme o projeto)
+- Git, GitHub e automação de workflows (ex.: GitHub Actions)
+- Monitoramento e logs (ferramentas variam por projeto)
 
-**Cloud & Infra**
-- Google Cloud (e ecossistema cloud em geral)
-- Containers & Orquestração (Docker / Kubernetes quando aplicável)
-- IaC (Terraform e/ou alternativas conforme o contexto)
-
-**DevOps & Qualidade**
-- CI/CD • GitHub Actions (e similares)
-- Observabilidade (monitoramento, logs, tracing)
-- Segurança (práticas de hardening, secrets, least privilege)
-
-> Obs.: a stack pode variar por projeto — eu priorizo **soluções simples, escaláveis e bem operadas**.
+Observação: a stack pode mudar de acordo com o problema. Eu priorizo soluções simples, bem documentadas e fáceis de operar.
 
 ---
 
-## Como eu trabalho (IA-first, com responsabilidade)
+## Motivação (open source)
 
-1. **Entendo o problema e defino o objetivo** (o que precisa funcionar em produção)
-2. **Desenho a arquitetura** (trade-offs, custo, segurança, SLO)
-3. **Guio a IA** com especificações claras (requisitos, padrões, constraints)
-4. **Implemento/integro** com automações e pipelines
-5. **Testo e valido** (funcional, carga quando necessário, segurança e observabilidade)
-6. **Entrego com confiabilidade** (monitoramento, rollback, documentação, runbooks)
+Meu objetivo com open source é criar projetos que sejam mais simples, mais acessíveis e mais fáceis de usar do que alternativas complexas do mercado — inclusive quando comparadas a soluções de grandes empresas.
 
-Resultado: velocidade com IA + qualidade de engenharia + confiabilidade real.
+Mesmo usando IA como acelerador, eu vejo isso como parte da minha habilidade técnica: saber especificar corretamente, escolher trade-offs, orientar a implementação, garantir qualidade, testar, validar e operar de forma confiável.
 
 ---
 
-## Atualmente focado em
-- Evoluir como **Cloud/DevOps** com visão de **Arquitetura**
-- Padronizar ambientes com **IaC** e pipelines sólidos
-- Aplicar **Agentes de IA** para automatizar o que não deveria ser manual
-- Construir sistemas com operação simples, custo controlado e observabilidade de ponta
+## Contato
 
----
-
-## Vamos conversar?
-Se quiser trocar ideia sobre **cloud, DevOps, arquitetura, Angular, automação e IA aplicada**, me chama.
-
-- GitHub: https://github.com/rj-vulgo22  
-<!-- Troque/adicione seus links:
+- GitHub: https://github.com/rj-vulgo22
+<!-- Opcional:
 - LinkedIn: https://www.linkedin.com/in/SEU-LINK/
-- E-mail: SEUEMAIL@DOMINIO.COM
--->
-
----
-
-<p align="center">
-  <i>“A IA acelera. A engenharia sustenta.”</i>
-</p>
-
-<!--
-Opcional: Stats (terceiros). Use se você curtir.
-Dependem de serviços externos (Vercel).
--->
-<!--
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rj-vulgo22&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj-vulgo22&layout=compact" />
-</p>
+- Email: SEUEMAIL@DOMINIO.COM
 -->
