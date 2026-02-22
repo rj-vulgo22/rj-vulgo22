@@ -12,90 +12,90 @@
 <h1 align="center">Matheus Moraes</h1>
 
 <p align="center">
-  21 anos • Cloud Engineering • DevOps • Arquitetura de Software (em evolução) • Web com IA (Google Gemini)
+  21 • Cloud Engineering • DevOps • Software Architecture (in progress) • AI-first Web (Google Gemini)
 </p>
 
 <p align="center">
   <a href="https://github.com/rj-vulgo22">github.com/rj-vulgo22</a>
-  <!-- Opcional:
-  • <a href="https://www.linkedin.com/in/SEU-LINK/">LinkedIn</a>
-  • <a href="mailto:SEUEMAIL@DOMINIO.COM">Email</a>
+  <!-- Optional:
+  • <a href="https://www.linkedin.com/in/YOUR-LINK/">LinkedIn</a>
+  • <a href="mailto:YOUR_EMAIL@DOMAIN.COM">Email</a>
   -->
 </p>
 
 ---
 
-## Sobre mim
+## About
 
-Sou Matheus Moraes, tenho 21 anos e foco em construir e evoluir soluções web com base forte em infraestrutura, entrega e operação. Estou aprofundando meus conhecimentos em Cloud Engineering, DevOps e Arquitetura de Software—áreas relacionadas, mas diferentes:
+I’m Matheus Moraes, 21, focused on building and improving web solutions with strong foundations in infrastructure, delivery, and operations. I’m actively deepening my skills in Cloud Engineering, DevOps, and Software Architecture—related areas, but not the same thing:
 
-- Cloud Engineering: serviços em nuvem, escalabilidade, segurança e custos
-- DevOps: automação, CI/CD, confiabilidade e práticas que melhoram entrega e operação
-- Arquitetura de Software: desenho de sistemas, integrações, padrões e trade-offs técnicos
+- Cloud Engineering: cloud services, scalability, security, and cost efficiency
+- DevOps: automation, CI/CD, reliability, and practices that improve delivery and operations
+- Software Architecture: system design, integrations, patterns, and technical trade-offs
 
-Eu trabalho no modelo AI-first. A IA é minha copilota; eu uso intensivamente para acelerar o desenvolvimento. Ainda assim, a responsabilidade de engenharia é minha ponta a ponta: definir objetivos, impor restrições, orientar a execução, testar, validar e entregar.
-
----
-
-## IA no meu fluxo de trabalho (Google Gemini e agentes)
-
-Tenho experiência usando a IA da Google (Gemini) para apoiar construção web e automações, incluindo:
-
-- prototipação de soluções e arquiteturas
-- geração e revisão de código e configurações
-- fluxos com “agentes” para reduzir trabalho repetitivo
-- apoio em documentação, testes e troubleshooting
-
-Importante: eu uso IA intensivamente, mas não terceirizo a responsabilidade. Eu defino direção, valido resultados e asseguro qualidade.
+I work in an AI-first way. AI is my copilot; I use it heavily to accelerate development. I still own the engineering responsibility end-to-end: defining goals, setting constraints, guiding implementation, testing, validating, and shipping.
 
 ---
 
-## O que eu faço
+## AI-first workflow (Google Gemini and agents)
 
-Infraestrutura e entrega
-- automação e padronização de projetos
-- pipelines de CI/CD e releases mais previsíveis
-- infraestrutura como código (IaC) e provisionamento repetível
-- observabilidade (logs, métricas e alertas) para operação estável
+I have hands-on experience using Google’s Gemini to support web development and automation, including:
+
+- solution and architecture prototyping
+- generating and reviewing code and configuration
+- agent-style workflows to reduce repetitive work
+- documentation, testing support, and troubleshooting acceleration
+
+Important: I use AI intensively, but I do not outsource accountability. I decide the direction, verify outcomes, and ensure quality.
+
+---
+
+## What I do
+
+Infrastructure and delivery
+- automation and project standardization
+- CI/CD pipelines and more predictable releases
+- infrastructure as code (IaC) and repeatable provisioning
+- observability (logs, metrics, alerting) for stable operations
 
 Web
-- Frontend com Angular (TypeScript)
-- funcionamento do backend e integrações definidos conforme a necessidade do projeto (APIs, autenticação, dados, serviços), com foco em manutenibilidade, segurança e performance
+- Frontend with Angular (TypeScript)
+- Backend behavior and integrations defined per project needs (APIs, authentication, data, services), with focus on maintainability, security, and performance
 
 ---
 
-## Foco atual
+## Current focus
 
-- fortalecer fundamentos de cloud e operação
-- evoluir em desenho de sistemas (trade-offs, escalabilidade, confiabilidade)
-- usar agentes de IA para automatizar o que não deveria ser manual
-- construir projetos simples de rodar, bem documentados e fáceis de adotar
-
----
-
-## Missão open source
-
-Meu objetivo com open source é criar ferramentas e produtos mais fáceis de usar, implantar e manter do que alternativas excessivamente complexas. Quero mostrar que um fluxo moderno—alto padrão, validação forte e aceleração com IA—pode gerar soluções que competem com o que grandes empresas entregam.
-
-Para mim, usar IA faz parte da habilidade: o diferencial está em especificar bem, escolher trade-offs, validar o que foi gerado e entregar software confiável.
+- strengthening fundamentals in cloud and operations
+- improving system design skills (architecture trade-offs, scalability, reliability)
+- using AI agents to automate what should not be manual
+- building projects that are simple to run, well-documented, and easy to adopt
 
 ---
 
-## Tecnologias (varia por projeto)
+## Open-source mission
+
+My goal with open source is to build tools and products that are easier to use, easier to deploy, and easier to maintain than overly complex alternatives. I want to prove that a modern workflow—high standards, strong validation, and AI acceleration—can produce solutions that rival what large companies ship.
+
+Using AI is part of the craft for me: the skill is in specifying correctly, making the right trade-offs, validating output, and delivering reliable software.
+
+---
+
+## Tech (varies by project)
 
 - TypeScript, Angular
-- Cloud (frequentemente ecossistema Google, dependendo do contexto)
-- Containers (Docker); orquestração quando faz sentido
-- IaC (por exemplo, Terraform, conforme o projeto)
-- Git e automação (por exemplo, GitHub Actions)
-- Monitoramento e logs (ferramentas variam)
+- Cloud (often Google ecosystem, depending on context)
+- Containers (Docker); orchestration when it makes sense
+- IaC (for example, Terraform, depending on the project)
+- Git and automation (for example, GitHub Actions)
+- Monitoring and logging (tooling varies)
 
 ---
 
-## Contato
+## Contact
 
 - GitHub: https://github.com/rj-vulgo22
-<!-- Opcional:
-- LinkedIn: https://www.linkedin.com/in/SEU-LINK/
-- Email: SEUEMAIL@DOMINIO.COM
+<!-- Optional:
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINK/
+- Email: YOUR_EMAIL@DOMAIN.COM
 -->
