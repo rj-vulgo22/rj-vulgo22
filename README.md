@@ -1,83 +1,129 @@
-
-<!-- 
-  A estética é "Cyber-Industrial / Minimalista". 
-  Projetado para Modo Escuro.
+<!--
+Perfil: Matheus Moraes (rj-vulgo22)
+Estilo: direto, moderno, IA-first, Cloud/DevOps + Web + Agentes
 -->
 
-<div align="center">
-  <a href="https://github.com/ovulgo22">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=System.initialize(ovulgo22)%3B;Arquitetando+Confianca+Digital.;Engenharia+de+Sistemas+Resilientes." alt="Typing SVG" />
+<h1 align="center">Matheus Moraes</h1>
+<p align="center">
+  Cloud Engineer • DevOps • Arquiteto em desenvolvimento (Infra & Web) • IA-first
+</p>
+
+<p align="center">
+  <a href="https://github.com/rj-vulgo22">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-rj--vulgo22-181717?style=for-the-badge&logo=github">
   </a>
-</div>
-
-<div align="center">
-  <br />
-  <code>Engenheiro de Software Web & Arquiteto de Sistemas</code>
-  <br />
-  <br />
-  <a href="#-stack">Stack</a> • 
-  <a href="#-filosofia">Filosofia</a> • 
-  <a href="#-trabalho">Trabalho</a> • 
-  <a href="#-contato">Sinal</a>
-  <br />
-  <br />
-</div>
+  <!-- Troque os links abaixo pelos seus (ou remova) -->
+  <!--
+  <a href="https://www.linkedin.com/in/SEU-LINK/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matheus%20Moraes-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:SEUEMAIL@DOMINIO.COM">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail">
+  </a>
+  -->
+</p>
 
 ---
 
-### <span style="color: #a1a1aa">01. //</span> A Interface
+## Sobre mim
 
-Não trato a engenharia de software apenas como escrever código, mas como **projetar sistemas de confiança**. Meu foco reside na interseção entre arquitetura frontend de alta performance, governança de segurança e resiliência operacional.
+Sou **Matheus Moraes**, atuo como **Cloud Engineer**, **DevOps** e **Arquiteto em desenvolvimento** — focado em **infraestrutura web moderna** e **entrega de software com excelência operacional**.
 
-```typescript
-interface Engenheiro {
-  nome: "Matheus";
-  usuario: "ovulgo22";
-  funcao: "Engenheiro de Software (Web)";
-  especializacao: [
-    "Arquitetura Orientada a Eventos",
-    "Governança Digital",
-    "Security by Design",
-    "UI de Alta Performance"
-  ];
-  localizacao: "Brasil";
-  status: "Enviando_Codigo_Producao";
-}
-```
+Meu diferencial é trabalhar no modelo **IA-first**: uso **Agentes/Inteligência Artificial** (ecossistema Google e ferramentas do mercado) para acelerar arquitetura, automação e desenvolvimento.  
+**A IA é minha auxiliadora. Eu sou quem torna a entrega possível**: defino objetivos, desenho a solução, oriento a execução, testo, valido e garanto qualidade, segurança e confiabilidade.
 
-### <span style="color: #a1a1aa">02. //</span> O Arsenal
-
-Construo com ferramentas que impõem tipagem segura, escalabilidade e manutenibilidade.
-
-| Domínio | Tecnologias |
-| :--- | :--- |
-| **Núcleo** | `TypeScript` `JavaScript (ESNext)` `Node.js` |
-| **Frameworks** | `Angular (Zoneless)` `React` `Tailwind CSS` `RxJS` |
-| **Sistema** | `Event Sourcing` `Micro-frontends` `Pipelines CI/CD` |
-| **Confiança** | `OAuth2/OIDC` `Policy as Code` `Trilhas de Auditoria` |
-
-### <span style="color: #a1a1aa">03. //</span> Arquitetura em Destaque
-
-> **[Tranquilidade Core](https://github.com/ovulgo22/tranquilidade)**
->
-> Um Sistema Operacional de Confiança Digital.
-> *   **Conceito:** Unifica governança, segurança e observabilidade em uma única camada de abstração.
-> *   **Tecnologia:** Angular 19+ (Zoneless), Signals, Arquitetura Orientada a Eventos, Tailwind.
-> *   **Recurso Principal:** Normalização em tempo real de sinais de infraestrutura em políticas de segurança acionáveis.
-
-### <span style="color: #a1a1aa">04. //</span> Princípios de Engenharia
-
-1.  **Security by Design:** Não é uma funcionalidade; é a fundação. Arquitetura Zero Trust é o padrão.
-2.  **Imutabilidade:** O estado deve ser previsível. Eventos são a fonte da verdade.
-3.  **Performance é UX:** Latência corrói a confiança. Interfaces devem reagir na velocidade do pensamento.
-
-<br />
+> **IA constrói rápido. Eu construo certo.**  
+> A responsabilidade final é minha: **decisão, validação, performance e produção**.
 
 ---
 
-<div align="center">
-  <p style="font-family: monospace; color: #52525b; font-size: 12px;">
-    // FIM DA TRANSMISSÃO <br>
-    © 2026 ovulgo22. Todos os sistemas operacionais.
-  </p>
-</div>
+## O que eu faço (na prática)
+
+### ☁️ Cloud & DevOps
+- Arquitetura e evolução de ambientes **cloud** com foco em **escalabilidade, segurança e custo**
+- **CI/CD**, automação e padronização de pipelines (entrega contínua e releases consistentes)
+- **Infra como Código (IaC)** e provisionamento repetível
+- Observabilidade e confiabilidade: **logs, métricas, tracing**, SLO/SLI e resposta a incidentes
+
+### 🤖 Agentes & IA aplicada
+- Criação/integração de **agentes** para automatizar tarefas técnicas (documentação, geração de infraestrutura, templates, testes, validações)
+- Uso de IA para:
+  - acelerar desenho de arquitetura
+  - reduzir tempo de troubleshooting
+  - gerar e revisar código/configuração
+  - aumentar cobertura de testes e qualidade de entregas
+
+### Web & Arquitetura de aplicações
+- **Angular (TypeScript)** no Frontend
+- Construção do **funcionamento do Backend** (arquitetura, integrações e padrões) alinhado a:
+  - performance, segurança e manutenibilidade
+  - APIs bem definidas e integração com serviços cloud
+  - boas práticas de versionamento e entrega
+
+---
+
+## Stack & Ferramentas (comuns no meu dia a dia)
+
+**Linguagens & Web**
+- TypeScript • Angular • (Backend conforme o projeto: Node.js / Python / etc.)
+
+**Cloud & Infra**
+- Google Cloud (e ecossistema cloud em geral)
+- Containers & Orquestração (Docker / Kubernetes quando aplicável)
+- IaC (Terraform e/ou alternativas conforme o contexto)
+
+**DevOps & Qualidade**
+- CI/CD • GitHub Actions (e similares)
+- Observabilidade (monitoramento, logs, tracing)
+- Segurança (práticas de hardening, secrets, least privilege)
+
+> Obs.: a stack pode variar por projeto — eu priorizo **soluções simples, escaláveis e bem operadas**.
+
+---
+
+## Como eu trabalho (IA-first, com responsabilidade)
+
+1. **Entendo o problema e defino o objetivo** (o que precisa funcionar em produção)
+2. **Desenho a arquitetura** (trade-offs, custo, segurança, SLO)
+3. **Guio a IA** com especificações claras (requisitos, padrões, constraints)
+4. **Implemento/integro** com automações e pipelines
+5. **Testo e valido** (funcional, carga quando necessário, segurança e observabilidade)
+6. **Entrego com confiabilidade** (monitoramento, rollback, documentação, runbooks)
+
+Resultado: velocidade com IA + qualidade de engenharia + confiabilidade real.
+
+---
+
+## Atualmente focado em
+- Evoluir como **Cloud/DevOps** com visão de **Arquitetura**
+- Padronizar ambientes com **IaC** e pipelines sólidos
+- Aplicar **Agentes de IA** para automatizar o que não deveria ser manual
+- Construir sistemas com operação simples, custo controlado e observabilidade de ponta
+
+---
+
+## Vamos conversar?
+Se quiser trocar ideia sobre **cloud, DevOps, arquitetura, Angular, automação e IA aplicada**, me chama.
+
+- GitHub: https://github.com/rj-vulgo22  
+<!-- Troque/adicione seus links:
+- LinkedIn: https://www.linkedin.com/in/SEU-LINK/
+- E-mail: SEUEMAIL@DOMINIO.COM
+-->
+
+---
+
+<p align="center">
+  <i>“A IA acelera. A engenharia sustenta.”</i>
+</p>
+
+<!--
+Opcional: Stats (terceiros). Use se você curtir.
+Dependem de serviços externos (Vercel).
+-->
+<!--
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rj-vulgo22&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj-vulgo22&layout=compact" />
+</p>
+-->
