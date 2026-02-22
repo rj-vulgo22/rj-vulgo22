@@ -39,13 +39,13 @@ Meu diferencial é trabalhar no modelo **IA-first**: uso **Agentes/Inteligência
 
 ## O que eu faço (na prática)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 - Arquitetura e evolução de ambientes **cloud** com foco em **escalabilidade, segurança e custo**
 - **CI/CD**, automação e padronização de pipelines (entrega contínua e releases consistentes)
 - **Infra como Código (IaC)** e provisionamento repetível
 - Observabilidade e confiabilidade: **logs, métricas, tracing**, SLO/SLI e resposta a incidentes
 
-### 🤖 Agentes & IA aplicada
+### Agentes & IA aplicada
 - Criação/integração de **agentes** para automatizar tarefas técnicas (documentação, geração de infraestrutura, templates, testes, validações)
 - Uso de IA para:
   - acelerar desenho de arquitetura
